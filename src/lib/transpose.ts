@@ -22,17 +22,17 @@ function transposeNote(note: string, semitones: number): string {
   return flat && FLAT_KEYS.has(flat) ? flat : newSharp;
 }
 
-// Matches: root, optional quality, optional number, optional slash bass
+// Matches: root, quality, number, optional sus/add + number (e.g. C7sus4, Am9add11), slash bass
 // Longest quality alternative first so 'maj' beats 'm'
-const CHORD_RE = /^([A-G][#b]?)(maj|min|m|aug|dim|sus|add)?(\d*)(?:\/([A-G][#b]?))?$/;
+const CHORD_RE = /^([A-G][#b]?)(maj|min|m|aug|dim)?(\d*)(sus|add)?(\d*)(?:\/([A-G][#b]?))?$/;
 
 function transposeChordToken(token: string, semitones: number): string {
   const m = token.match(CHORD_RE);
   if (!m) return token;
-  const [, root, quality = '', num = '', bass] = m;
+  const [, root, quality = '', num = '', mod = '', modNum = '', bass] = m;
   const newRoot = transposeNote(root, semitones);
   const newBass = bass ? transposeNote(bass, semitones) : undefined;
-  return newRoot + quality + num + (newBass ? '/' + newBass : '');
+  return newRoot + quality + num + mod + modNum + (newBass ? '/' + newBass : '');
 }
 
 export function transposeChordLine(line: string, semitones: number): string {
