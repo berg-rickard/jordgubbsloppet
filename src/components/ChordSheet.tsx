@@ -14,8 +14,20 @@ interface Props {
 
 export function ChordSheet({ title, artist, originalKey, lines }: Props) {
   const [offset, setOffset] = useState(0);
-  const [showChords, setShowChords] = useState(false);
+  const [showChords, setShowChords] = useState(() => {
+    if (typeof window === 'undefined') return false;
+    const saved = localStorage.getItem('showChords');
+    return saved !== null ? saved === 'true' : false;
+  });
   const currentKey = transposeKey(originalKey, offset);
+
+  const toggleChords = () => {
+    setShowChords((s) => {
+      const next = !s;
+      localStorage.setItem('showChords', String(next));
+      return next;
+    });
+  };
 
   return (
     <>
@@ -24,7 +36,7 @@ export function ChordSheet({ title, artist, originalKey, lines }: Props) {
 
         <button
           className={`chords-toggle ${showChords ? 'chords-toggle--on' : 'chords-toggle--off'}`}
-          onClick={() => setShowChords((s) => !s)}
+          onClick={toggleChords}
           aria-pressed={showChords}
         >
           {showChords ? 'Hide chords' : 'Show chords'}
