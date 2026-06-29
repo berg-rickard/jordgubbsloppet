@@ -25,39 +25,77 @@ Already I'm so lonesome
         G
 I could die
 
+   C           F
+So kiss me and smile for me
+C                   F
+Tell me that you'll wait for me
+C                   F            G
+Hold me like you'll never let me go
+           C       F
+'Cause I'm leavin' on a jet plane
+C               F
+Don't know when I'll be back again
+C  F               G
+Oh babe, I hate to go
 
-So kiss me and smile for me
-Tell me that you'll wait for me
-Hold me like you'll never let me go
-'Cause I'm leavin' on a jet plane
-Don't know when I'll be back again
-Oh babe, I hate to go
+        C                   F
 There's so many times I've let you down
+   C               F
 So many times I've played around
+C                   F                 G
 And I tell you now, they don't mean a thing
+      C                F
 Every place I go, I'll think of you
+      C                 F
 Every song I sing, I'll sing for you
+     C                 F                  G
 When I come back, I'll bring your wedding ring
+
+   C           F
 So kiss me and smile for me
+C                   F
 Tell me that you'll wait for me
+C                   F            G
 Hold me like you'll never let me go
+           C       F
 'Cause I'm leavin' on a jet plane
+C               F
 Don't know when I'll be back again
+C  F               G
 Oh babe, I hate to go
+
+C                F
 Now the time has come to leave you
+C 
 One more time
+F
 Let me kiss you
+C
 close your eyes
+F             G
 I'll be on my way
+C           F
 Dream about days to come
+     C               F 
 When I won't have to leave alone
+ C               F               G
 About the times, I won't have to say
+
+   C           F
 Oh, kiss me and smile for me
+C                   F
 Tell me that you'll wait for me
+C                   F            G
 Hold me like you'll never let me go
+           C       F
 'Cause I'm leavin' on a jet plane
+C               F
 Don't know when I'll be back again
+C  F               G
 Oh babe, I hate to go
-But, I'm leavin' on a jet plane
+           C       F
+'Cause I'm leavin' on a jet plane
+C               F
 Don't know when I'll be back again
+C  F               G
 Oh babe, I hate to go
