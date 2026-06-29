@@ -14,7 +14,7 @@ interface Props {
 
 export function ChordSheet({ title, artist, originalKey, lines }: Props) {
   const [offset, setOffset] = useState(0);
-  const [showChords, setShowChords] = useState(true);
+  const [showChords, setShowChords] = useState(false);
   const currentKey = transposeKey(originalKey, offset);
 
   return (
