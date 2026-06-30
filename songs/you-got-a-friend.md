@@ -32,7 +32,7 @@ And I'll be there, ye, ye, ye
              Ab
 You've got a friend
 
-       Fm5    C7/G
+       Fm7    C7/G
 If the sky above you
             Fm7      C7/G    Fm7/Ab
 Should turn dark and full of clouds
@@ -42,7 +42,7 @@ C7sus4/G        C
 Keep you head together
     Fm      C7/G     Fm/Ab
 And call my name out loud now
-Bbm7                cm7             Eb11
+Bbm7                Cm7             Eb11
 Soon you'll hear me knocking at you door
 
          Ab
