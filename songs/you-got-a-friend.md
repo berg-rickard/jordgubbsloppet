@@ -53,7 +53,7 @@ And you know wherever I am
 I'll come running, oh yeah baby, to see you again
 Ab                        Abmaj7
 Winter, spring, summer or fall
-C#                      Fm  Ab7Eb
+C#                      Fm  Ab7/Eb
 All you've got to do is call
          C#        Cm   Bbm7   Eb11
 And I'll be there, ye, ye, ye
@@ -79,7 +79,7 @@ And you know wherever I am
 I'll come running, oh yeah baby, to see you again
 Ab                        Abmaj7
 Winter, spring, summer or fall
-C#                      Fm  Ab7Eb
+C#                      Fm  Ab7/Eb
 All you've got to do is call
          C#        Cm   Bbm7   Eb11
 And I'll be there, ye, ye, ye

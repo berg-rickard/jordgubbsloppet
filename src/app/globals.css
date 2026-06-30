@@ -267,7 +267,7 @@ button {
 .chord-sheet {
   font-family: var(--mono);
   font-size: 0.72rem;
-  line-height: 1.75;
+  line-height: 1.5;
   overflow-x: auto;
   /* Preserve whitespace for alignment */
   white-space: pre;
@@ -277,11 +277,16 @@ button {
   color: var(--chord-color);
   font-weight: 600;
   display: block;
+
+  + .lyric-line {
+    margin-top: -0.125rem;
+  }
 }
 
 .lyric-line {
   color: var(--text);
   display: block;
+  margin-block: 0.25rem;
 }
 
 .section-line {
