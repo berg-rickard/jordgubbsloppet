@@ -267,7 +267,7 @@ button {
 .chord-sheet {
   font-family: var(--mono);
   font-size: 0.72rem;
-  line-height: 1.5;
+  line-height: 1.75;
   overflow-x: auto;
   /* Preserve whitespace for alignment */
   white-space: pre;
