@@ -122,9 +122,6 @@ button {
 /* ── Song page ── */
 
 .song-nav {
-  position: sticky;
-  top: 0;
-  z-index: 10;
   background: var(--bg);
   border-bottom: 1px solid var(--border);
   display: flex;
@@ -133,6 +130,14 @@ button {
   gap: 1rem;
   padding: 0.6rem 1.25rem;
   flex-wrap: wrap;
+}
+
+@media (min-width: 768px) {
+  .song-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
 }
 
 .song-back {
