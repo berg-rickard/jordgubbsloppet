@@ -39,3 +39,8 @@ Em        A               D      D/C#   Bm    Bm/A
 Du är som stjärnorna, som vindarna, som vågorna
     G     D/F#    Em     G/D   A
 Som fåglarna, som blommorna på marken
+
+D         G    A      D   G   A
+Du är det finaste jag vet
+D         G    A      D
+Du är det finaste jag vet
