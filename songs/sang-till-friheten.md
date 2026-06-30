@@ -19,7 +19,7 @@ D         G         D/F#      A
 Du är min tro, mitt hopp, min kärlek
 Em         A             D       D/C# Bm 
 Du är mitt blod och mina lungor, mina ögon
-Bm/A G         D/#F Em     G/D      A 
+Bm/A G         D/F# Em     G/D      A 
 Mina skuldror, mina händer och mitt hjärta
 
 D        G       A      D    G   A
