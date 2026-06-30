@@ -177,15 +177,15 @@ button {
 }
 
 .transpose-btn {
-  width: 1.75rem;
-  height: 1.75rem;
+  width: 2.75rem;
+  height: 2.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
   border: 1px solid var(--border) !important;
-  border-radius: 4px;
+  border-radius: 6px;
   background: var(--surface) !important;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 700;
   line-height: 1;
   color: var(--text) !important;
@@ -212,11 +212,12 @@ button {
 }
 
 .chords-toggle {
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  padding: 0.25em 0.65em;
-  border-radius: 4px;
+  width: 2.75rem;
+  height: 2.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
   border: 1px solid var(--border) !important;
   transition: background 0.1s, color 0.1s, border-color 0.1s;
 }
@@ -242,13 +243,14 @@ button {
 }
 
 .transpose-reset {
+  width: 2.75rem;
+  height: 2.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
   color: var(--muted);
   background: none !important;
   border: none !important;
-  padding: 0.1rem;
 }
 
 .transpose-reset:hover {
