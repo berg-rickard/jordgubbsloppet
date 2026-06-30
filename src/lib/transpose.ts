@@ -11,7 +11,7 @@ const TO_SHARP: Record<string, string> = {
 };
 
 // Keys that conventionally use flats in chord notation
-const FLAT_KEYS = new Set(['F', 'Bb', 'Eb', 'Ab', 'Db', 'Gb']);
+const FLAT_KEYS = new Set(['F', 'Bb', 'Eb', 'Ab']);
 
 function transposeNote(note: string, semitones: number): string {
   const sharp = TO_SHARP[note] ?? note;

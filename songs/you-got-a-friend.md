@@ -19,15 +19,15 @@ To brighten up even your darkest night
 
          Ab
 You just call out my name
-        Db
+        C#
 And you know wherever I am
           Ab                                Eb11
 I'll come running, oh yeah baby, to see you again
 Ab                        Abmaj7
 Winter, spring, summer or fall
-Db                      Fm  Ab7/Eb
+C#                      Fm  Ab7/Eb
 All you've got to do is call
-         Db        Cm   Bbm7   Eb11
+         C#        Cm   Bbm7   Eb11
 And I'll be there, ye, ye, ye
              Ab
 You've got a friend
@@ -47,24 +47,24 @@ Soon you'll hear me knocking at you door
 
          Ab
 You just call out my name
-        Db
+        C#
 And you know wherever I am
           Ab                                Eb11
 I'll come running, oh yeah baby, to see you again
 Ab                        Abmaj7
 Winter, spring, summer or fall
-Db                      Fm  Ab7Eb
+C#                      Fm  Ab7Eb
 All you've got to do is call
-         Db        Cm   Bbm7   Eb11
+         C#        Cm   Bbm7   Eb11
 And I'll be there, ye, ye, ye
              Ab
 You've got a friend
 
-Gb                         Db
+F#                         C#
 Ain't it good to know that you've got a friend
      Ab               Abmaj7
 When people can be so cold
-        Db            Gb9
+        C#            F#9
 They'll hurt you, and desert you
     Fm                    Bb7
 And take your soul if you let them
@@ -73,15 +73,15 @@ oh yeah, don't you let 'em now
 
          Ab
 You just call out my name
-        Db
+        C#
 And you know wherever I am
           Ab                                Eb11
 I'll come running, oh yeah baby, to see you again
 Ab                        Abmaj7
 Winter, spring, summer or fall
-Db                      Fm  Ab7Eb
+C#                      Fm  Ab7Eb
 All you've got to do is call
-         Db        Cm   Bbm7   Eb11
+         C#        Cm   Bbm7   Eb11
 And I'll be there, ye, ye, ye
              Ab
 You've got a friend
