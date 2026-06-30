@@ -284,6 +284,17 @@ button {
   display: block;
 }
 
+.section-line {
+  color: #1A3D72;
+  font-weight: 700;
+  display: block;
+}
+
+.annotation-line {
+  color: #A8A4A0;
+  display: block;
+}
+
 .blank-line {
   display: block;
   height: 1.2em;

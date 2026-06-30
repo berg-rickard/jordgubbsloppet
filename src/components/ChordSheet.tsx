@@ -102,6 +102,12 @@ export function ChordSheet({ title, artist, originalKey, lines }: Props) {
             if (line.type === 'blank') {
               return <span key={i} className="blank-line" />;
             }
+            if (line.type === 'section') {
+              return <span key={i} className="section-line">{line.content}</span>;
+            }
+            if (line.type === 'annotation') {
+              return <span key={i} className="annotation-line">{line.content}</span>;
+            }
             if (line.type === 'lyric') {
               return <span key={i} className="lyric-line">{line.content}</span>;
             }

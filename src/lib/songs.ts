@@ -6,7 +6,7 @@ import { isChordLine } from './transpose';
 const SONGS_DIR = path.join(process.cwd(), 'songs');
 
 export interface Line {
-  type: 'chord' | 'lyric' | 'blank';
+  type: 'chord' | 'lyric' | 'blank' | 'annotation' | 'section';
   content: string;
 }
 
@@ -31,6 +31,10 @@ export function getSong(slug: string): Song {
 
   const lines: Line[] = content.split('\n').map((line) => {
     if (!line.trim()) return { type: 'blank', content: '' };
+    const section = line.trim().match(/^(?:\*\*|__)(.+)(?:\*\*|__)$/);
+    if (section) return { type: 'section', content: section[1] };
+    const annotation = line.trim().match(/^[_*](.+)[_*]$/);
+    if (annotation) return { type: 'annotation', content: annotation[1] };
     if (isChordLine(line)) return { type: 'chord', content: line };
     return { type: 'lyric', content: line };
   });
